@@ -1,12 +1,12 @@
 {
-  "name": "a2consultores/argentina-provincias-localidades",
+  "name": "8ballcontent/argentina-provincias-localidades",
   "description": "Provincias y Localidades de Argentina para Laravel",
   "keywords": [
     "Localidades",
     "Provincias",
     "Argentina"
   ],
-  "homepage": "https://github.com/a2consultores/argentina-provincias-localidades",
+  "homepage": "https://github.com/8ballcontent/argentina-provincias-localidades",
   "license": "MIT",
   "authors": [
     {
